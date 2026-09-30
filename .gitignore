@@ -2,7 +2,6 @@ datasets/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-*.csv
 *.sav
 *.pkl
 *.joblib
